@@ -18,14 +18,11 @@ dependencies:
   # Utility Packages
   http: ^1.2.1 # Conexao http
   intl: ^0.19.0 # Formatos de Datas
-  brasil_fields: ^1.14.3 # <= Fazer um próprio
   qr_flutter: ^4.1.0 # Gerador QRCode
-  slide_countdown: ^1.6.1 # <= Fazer um próprio
   flutter_native_splash: ^2.4.0
   flutter_launcher_icons: ^0.13.1
   logger: ^2.3.0
   url_launcher: ^6.3.0
-  smooth_page_indicator: ^1.1.0
   lottie: ^3.1.2
   connectivity_plus: ^6.0.3
   url_strategy: ^0.2.0

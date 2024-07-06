@@ -41,14 +41,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
-  brasil_fields:
-    dependency: "direct main"
-    description:
-      name: brasil_fields
-      sha256: "6c802e8629d8e5c81af32d611d1cf260d7ecc86b99e27c127f64490bf1606256"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.15.0"
   characters:
     dependency: transitive
     description:
@@ -437,22 +429,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
-  slide_countdown:
-    dependency: "direct main"
-    description:
-      name: slide_countdown
-      sha256: "345cbe6d749bf8525df020cbc3763fa5005fed9a8fce59b32c61a5e1bac07b4e"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.6.1"
-  smooth_page_indicator:
-    dependency: "direct main"
-    description:
-      name: smooth_page_indicator
-      sha256: "725bc638d5e79df0c84658e1291449996943f93bacbc2cec49963dbbab48d8ae"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.0"
   source_span:
     dependency: transitive
     description:
@@ -477,14 +453,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.2"
-  stream_duration:
-    dependency: transitive
-    description:
-      name: stream_duration
-      sha256: d4e833a8db38faec87325ca784079d1e90ba66f78c365ca96f353a59b26bd62e
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.2.2"
   string_scanner:
     dependency: transitive
     description:

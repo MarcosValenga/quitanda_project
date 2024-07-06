@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:quitanda_project/src/utils/constants/sizes.dart';
 
 class SignInView extends StatelessWidget {
   const SignInView({super.key});
@@ -34,6 +35,7 @@ class SignInView extends StatelessWidget {
                       border: OutlineInputBorder(),
                     ),
                   ),
+                  const SizedBox(height: TSizes.spaceBtwInputFields),
                   // Senha
                   TextFormField(
                     decoration: const InputDecoration(
